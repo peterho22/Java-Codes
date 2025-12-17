@@ -1,24 +1,33 @@
-# Java Grade Calculator
+# Java Basics
 
-This project is a simple Java console application that calculates a student's
-final course grade using weighted averages.
+This repository contains small Java console applications created to practice
+fundamental programming concepts such as user input, conditional logic, loops,
+and arithmetic operations.
 
-## Grade Weights
+## Programs Included
+
+### Grade Calculator
+A Java program that calculates a student’s final course grade using weighted
+averages for labs, assignments, midterm exams, and final exams.
+
+**Grade Weights:**
 - Labs: 10%
 - Assignments: 40%
 - Midterm Exam: 20%
 - Final Exam: 30%
 
-## Features
-- Takes user input using Scanner
-- Calculates and displays each weighted score
-- Outputs the final course grade
+### Number Operations
+A menu-driven Java program that allows users to perform various operations on a
+number, including:
+- Re-entering the number
+- Finding the additive inverse
+- Finding the reciprocal (when applicable)
+- Squaring the number
+- Cubing the number
+
+The program uses loops and switch-case logic to repeatedly process user input
+until the user chooses to exit.
 
 ## How to Run
-1. Compile the program:
-2. Run the program:
+Compile and run any program using the following commands:
 
-
-## Purpose
-This project was created to practice Java fundamentals such as input handling,
-variables, arithmetic operations, and program structure.
