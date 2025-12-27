@@ -28,6 +28,16 @@ number, including:
 The program uses loops and switch-case logic to repeatedly process user input
 until the user chooses to exit.
 
+### Array Sorting Demo
+A Java program that generates an array of random integers and allows the user
+to:
+- Generate a new random array
+- Check if the array is sorted
+- Sort the array using selection sort
+
+This program demonstrates arrays, methods, loops, conditionals, and a basic
+sorting algorithm.
+
 ## How to Run
 Compile and run any program using the following commands:
 
